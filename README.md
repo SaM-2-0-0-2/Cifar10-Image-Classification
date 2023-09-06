@@ -3,3 +3,6 @@ In this project, Convolution neural network model is developed to classify the i
 Tensorflow and Keras libraries of Python were used for development of CNN model.
 Matplotlib is used to plot the performance of the model.
 Rectified Linear Unit is activation function used for activating Neurons of CNN.
+References:
+  -Analytics Vidhya
+  -Data Flair
